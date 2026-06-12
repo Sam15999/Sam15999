@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Bachelor's%20Degree-Computer%20Science-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/3.5%2B%20Years-Experience-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Freelance-Mobile+App+Developer-4338CA?style=for-the-badge)
+![](https://img.shields.io/badge/Freelance-Mobile-App-Developer-4338CA?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-312E81?style=for-the-badge)
 
