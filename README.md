@@ -95,45 +95,133 @@ I focus on building **high-performance, production-ready applications** with cle
 
 # Featured Projects
 
+# 🚀 Featured Projects
+
 <details>
 <summary><b>Computer Vision Based Smart Interior Design</b></summary>
 
-**Overview:** AI system that analyzes room images and provides interior design recommendations.
+**Overview:** AI-powered system that analyzes room images and generates intelligent interior design recommendations.
 
 | Stack | React Native, Python, TensorFlow, OpenCV |
-| Scale | Mobile AI Application |
-| Performance | Optimized CV pipeline |
-| Security | Secure API architecture |
-| Impact | Automated design recommendations |
+|------|-------------------------------------------|
+| Scale | AI Mobile Application |
+| Performance | Optimized Computer Vision Pipeline |
+| Security | Secure API Integration |
+| Impact | Automated Interior Design Suggestions |
 
 </details>
+
+---
 
 <details>
 <summary><b>Awami Digi Bank App</b></summary>
 
-**Overview:** Secure mobile banking application.
+**Overview:** Secure digital banking application with modern UI and transaction handling.
 
 | Stack | React Native, Node.js, REST APIs |
-| Scale | Banking-grade mobile app |
-| Performance | Optimized API handling |
-| Security | Authentication & encryption |
-| Impact | Improved digital banking UX |
+|------|-----------------------------------|
+| Scale | Fintech Mobile App |
+| Performance | Optimized API Calls |
+| Security | Authentication + Encryption |
+| Impact | Improved Digital Banking Experience |
 
 </details>
+
+---
 
 <details>
-<summary><b>Karachi Paratha Cafe App</b></summary>
+<summary><b>Karachi Paratha Cafe App (Food Ordering System)</b></summary>
 
-**Overview:** Restaurant ordering system.
+**Overview:** Real-time food ordering application for restaurant management and customer ordering.
 
 | Stack | React Native, Firebase |
-| Scale | Real-time ordering platform |
-| Performance | Fast UI & updates |
-| Security | Firebase Auth |
-| Impact | Improved restaurant operations |
+|------|------------------------|
+| Scale | Restaurant Ordering System |
+| Performance | Real-time Sync |
+| Security | Firebase Authentication |
+| Impact | Streamlined Restaurant Operations |
 
 </details>
 
+---
+
+<details>
+<summary><b>Snake Game (Classic Arcade)</b></summary>
+
+**Overview:** Classic Snake game built with smooth controls and optimized game loop logic.
+
+| Stack | JavaScript, HTML5 Canvas |
+|------|--------------------------|
+| Scale | 2D Browser Game |
+| Performance | Smooth Frame Rendering |
+| Security | N/A |
+| Impact | Game Development Practice |
+
+</details>
+
+---
+
+<details>
+<summary><b>Bounce 2D Nokia Style Game</b></summary>
+
+**Overview:** Retro-style bouncing ball game inspired by classic Nokia mobile games.
+
+| Stack | JavaScript, Canvas API |
+|------|------------------------|
+| Scale | 2D Physics Game |
+| Performance | Lightweight Physics Engine |
+| Security | N/A |
+| Impact | Game Physics & Animation Practice |
+
+</details>
+
+---
+
+<details>
+<summary><b>Gym Fitness App</b></summary>
+
+**Overview:** Fitness tracking mobile application for workouts, routines, and health progress.
+
+| Stack | React Native, Firebase |
+|------|------------------------|
+| Scale | Fitness Mobile App |
+| Performance | Optimized UI Rendering |
+| Security | User Authentication |
+| Impact | Health & Fitness Tracking |
+
+</details>
+
+---
+
+<details>
+<summary><b>Craving Food Delivery App</b></summary>
+
+**Overview:** Food delivery platform with real-time ordering and restaurant browsing features.
+
+| Stack | React Native, Node.js, MongoDB |
+|------|-------------------------------|
+| Scale | Food Delivery System |
+| Performance | Fast Order Processing |
+| Security | Secure Transactions |
+| Impact | Improved Customer Experience |
+
+</details>
+
+---
+
+<details>
+<summary><b>AI-Powered Doctor Appointment App</b></summary>
+
+**Overview:** Intelligent healthcare appointment system with AI-based scheduling and recommendations.
+
+| Stack | React Native, Python, AI/ML APIs |
+|------|----------------------------------|
+| Scale | Healthcare Platform |
+| Performance | Smart Scheduling Engine |
+| Security | Encrypted Patient Data |
+| Impact | AI-Based Appointment Optimization |
+
+</details>
 ---
 
 # Experience
