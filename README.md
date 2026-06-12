@@ -1,18 +1,408 @@
-# 💫 About Me:
- About Me<br><br>Mobile App Developer & SQA Engineer with experience in building cross-platform applications for Android & iOS using React Native and Flutter. Passionate about creating clean UI, scalable applications, API integrations, testing, debugging, and performance optimization.<br><br> 
+# <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6D28D9,100:312E81&text=Software%20Engineer%20%7C%20AI%20Engineer&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/seemab-qaiser-b96931223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sammyqaiser99@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Scalable+Digital+Products;Open+Source+Contributor;Engineering+for+Impact"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sam15999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sam15999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sam15999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+![](https://img.shields.io/badge/Bachelor's%20Degree-Computer%20Science-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20%26%20ML-Engineering-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Product-Engineering-4338CA?style=for-the-badge)
+
+![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-312E81?style=for-the-badge)
+
+<br/>
+
+<a href="https://https://seemab-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/seemab-qaiser-b96931223">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sammyqaiser99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sam15999">
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=4F46E5&label=Followers)
+![](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=4338CA&label=Stars)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sam15999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+I am a **Mobile App Developer & SQA Engineer** f with experience in building cross-platform applications for Android & iOS using React Native and Flutter.
+
+Passionate about creating clean UI, scalable applications, API integrations, testing, debugging, and performance optimization.
+
+With a product-first mindset, I focus on:
+
+- Designing scalable software architectures
+- Building enterprise-grade applications
+- Developing AI-powered solutions
+- Optimizing performance and reliability
+- Automating workflows and engineering processes
+- Delivering measurable business impact
+
+### Open To
+
+- Software Engineering Opportunities
+- AI / ML Engineering Roles
+- Full Stack Applications Development
+- Cloud & DevOps Engineering
+- Open Source Collaboration
+- Product Engineering Teams
+- Technical Consulting
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,dart,kotlin,swift" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,bootstrap,figma" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,git,linux,nginx,postman,vscode" />
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|------------|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning |
+| Deep Learning | Advanced | CNNs, RNNs, Transfer Learning |
+| Computer Vision | Advanced | Object Detection, Image Processing |
+| NLP | Intermediate | Text Analytics, LLM Integration |
+| MLOps | Intermediate | Deployment, Monitoring, Pipelines |
+| Data Engineering | Intermediate | ETL, Feature Engineering |
+| AI Product Development | Advanced | End-to-End AI Solutions |
+| Generative AI | Advanced | Prompt Engineering, RAG Systems |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Computer Vision Based Smart Interior Design</b></summary>
+
+### Overview
+
+AI-powered interior design recommendation platform leveraging Computer Vision to transform room planning and furniture placement.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React Native, Python, TensorFlow, OpenCV |
+| Scale | Multi-module AI application |
+| Performance | Optimized image processing pipeline |
+| Security | Role-based access and secure APIs |
+| Impact | Automated room design recommendations |
+| Repository | https://github.com/yourusername/project |
+
+### Engineering Highlights
+
+- Computer Vision powered room analysis
+- AI-driven furniture recommendations
+- Real-time image processing
+- Mobile-first architecture
+- Scalable backend integrations
+
+</details>
+
+<details>
+<summary><b>Digital Banking Platform</b></summary>
+
+### Overview
+
+Modern mobile banking experience focused on secure financial operations and intuitive customer journeys.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React Native, Node.js, REST APIs |
+| Scale | Enterprise-grade mobile banking |
+| Performance | Optimized API communication |
+| Security | Authentication & authorization layers |
+| Impact | Improved customer experience |
+| Repository | https://github.com/yourusername/project |
+
+### Engineering Highlights
+
+- Secure authentication flows
+- Banking-grade architecture
+- Transaction management
+- High availability design
+- API-driven development
+
+</details>
+
+<details>
+<summary><b>Restaurant Ordering Platform</b></summary>
+
+### Overview
+
+Digital ordering ecosystem delivering seamless customer interactions and operational efficiency.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React Native, Firebase |
+| Scale | Multi-user ordering system |
+| Performance | Near real-time updates |
+| Security | Secure user authentication |
+| Impact | Improved restaurant workflow |
+| Repository | https://github.com/yourusername/project |
+
+### Engineering Highlights
+
+- Real-time ordering
+- Customer engagement workflows
+- Cloud-backed architecture
+- Responsive mobile experience
+- Data analytics integration
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineer
+
+**Company Name**
+
+**Jan 2025 – Present**
+
+Designing scalable software systems and delivering production-grade applications across web, mobile, and AI domains.
+
+### Scope of Work
+
+- Developed enterprise-grade applications
+- Integrated AI/ML workflows into products
+- Designed scalable backend services
+- Improved software performance and reliability
+- Collaborated with cross-functional teams
+- Participated in architecture and design reviews
+
+### Skills
+
+`Software Engineering` `React Native` `Node.js` `AI/ML` `Cloud` `Git` `Agile`
+
+---
+
+## AI Engineer
+
+**Company Name**
+
+**2024 – 2025**
+
+Worked on machine learning systems, computer vision applications, and intelligent automation solutions.
+
+### Scope of Work
+
+- Built AI-powered products
+- Trained machine learning models
+- Developed computer vision pipelines
+- Optimized model performance
+- Deployed production AI solutions
+
+### Skills
+
+`Machine Learning` `Computer Vision` `Python` `TensorFlow` `OpenCV`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|------------|
+| AI Engineering Projects | Delivered end-to-end intelligent systems |
+| Open Source Contributions | Contributed to collaborative development |
+| Product Engineering | Built scalable digital products |
+| Mobile Development | Developed production-ready applications |
+| Continuous Learning | Consistently advancing technical expertise |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-6D28D9?style=for-the-badge&logo=amazonaws)
+![](https://img.shields.io/badge/AWS-Solutions%20Architect-4F46E5?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Java%20Foundations-4338CA?style=for-the-badge&logo=oracle)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Programming%20Foundations-312E81?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-4F46E5?style=for-the-badge&logo=cisco)
+![](https://img.shields.io/badge/Cisco-Cybersecurity-6D28D9?style=for-the-badge&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-4F46E5?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Skills%20Verification-4338CA?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-312E81?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design
+  - MLOps
+  - Cloud Native Architecture
+  - Distributed Systems
+
+Building:
+  - AI Powered Applications
+  - Full Stack Platforms
+  - Scalable Mobile Products
+  - Developer Tools
+
+Exploring:
+  - Generative AI
+  - Agentic AI Systems
+  - Kubernetes
+  - Platform Engineering
+
+Open_To:
+  - Software Engineering Roles
+  - AI Engineering Opportunities
+  - Technical Leadership
+  - Open Source Collaboration
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:sammyqaiser99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/seemab-qaiser-b96931223">
+<img src="https://img.shields.io/badge/LinkedIn-Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sam15999">
+<img src="https://img.shields.io/badge/GitHub-Profile-4338CA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://seemab-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering scalable systems, building intelligent products, and creating measurable impact through technology."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,50:6D28D9,100:4F46E5"/>
