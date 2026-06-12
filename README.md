@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://https://seemab-portfolio.netlify.app/">
+<a href="https://https://seemab-portfolio.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
