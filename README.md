@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6D28D9,100:312E81&text=Seemab%20Qaiser&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=React+Native+Developer;AI+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Mobile+App+Architect;Building+Scalable+Digital+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=React+Native+Developer;Flutter+Dart +Developer;AI+Engineer;Full+Stack+Developer;Computer+Vision+Developer;Mobile+App+Architect;Building+Scalable+Digital+Products"/>
 
 <br/>
 
@@ -59,12 +59,12 @@ I focus on building **high-performance, production-ready applications** with cle
 
 ### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,c++,dart,kotlin" />
 </p>
 
 ### Frontend / Mobile
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,figma" />
+<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,html,css,tailwind,redux,figma" />
 </p>
 
 ### Backend & Databases
@@ -217,8 +217,3 @@ Open_To:
   - AI Engineering Roles
   - Freelance Projects
 
-<div align="center">
-
-"Building scalable systems and intelligent products that create real-world impact."
-
-</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,50:6D28D9,100:4F46E5"/> ```
