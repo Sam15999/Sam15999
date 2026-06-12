@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/Bachelor's%20Degree-Computer%20Science-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/3.5%2B%20Years-Experience-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Freelance-Engineer-4338CA?style=for-the-badge)
+![](https://img.shields.io/badge/Freelance-Mobile+App+Developer-4338CA?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-312E81?style=for-the-badge)
 
@@ -138,8 +138,8 @@ I focus on building **high-performance, production-ready applications** with cle
 
 # Experience
 
-## Freelance Software Engineer
-**Self-Employed | 2022 – Present**
+## Freelance Mobile App Developer
+**Self-Employed | 2023 – Present**
 
 - Built production-ready mobile applications  
 - Developed AI/ML computer vision systems  
