@@ -59,7 +59,7 @@ I focus on building **high-performance, production-ready applications** with cle
 
 ### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,c++,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,swift,dart,kotlin" />
 </p>
 
 ### Frontend / Mobile
