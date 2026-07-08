@@ -222,6 +222,26 @@ I focus on building **high-performance, production-ready applications** with cle
 | Impact | AI-Based Appointment Optimization |
 
 </details>
+
+---
+
+<details>
+<summary><b>Space Impact Game</b></summary>
+
+**Overview:** Fast-paced 2D arcade space shooter built with Flutter, featuring smooth gameplay, custom rendering, and optimized performance.
+
+
+| Stack | Flutter, Dart, Custom Canvas Rendering |
+|------|----------------------------------|
+| Scale | 2D Mobile Arcade Game |
+| Performance | 60 FPS Optimized Rendering & Object Pooling |
+| Features  | Touch Controls, Enemy AI, Collision Detection, Particle Effects |
+| Impact | Delivered a responsive, engaging, and high-performance gaming experience |
+
+</details>
+
+
+
 ---
 
 # Experience
